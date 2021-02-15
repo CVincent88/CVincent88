@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Côme
+- 👀 I love programming and climbing (yeah, they're quite different)
+- 🌱 I’m currently learning PHP and would like to go towards C++ when I'll have the time.
+- 📫 You can reach me by email at come.vincent@live.fr
